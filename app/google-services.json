@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "945152663024",
+    "firebase_url": "https://onlinefilemanager-ee1ae.firebaseio.com",
+    "project_id": "onlinefilemanager-ee1ae",
+    "storage_bucket": "onlinefilemanager-ee1ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945152663024:android:4492d411f33601f2",
+        "android_client_info": {
+          "package_name": "com.tushar.jape.onlinefilemanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945152663024-578dfhfu1b728f321bqjsd529bhgicvj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tushar.jape.onlinefilemanager",
+            "certificate_hash": "c4e48e31e25105e94146fc98d230e65faf9760d4"
+          }
+        },
+        {
+          "client_id": "945152663024-8ks1gu9ll24l2efbuolc8a33vucn0e2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgaTwAIjeZSINzhv-ehQMTNxdxXUoCF_M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "945152663024-8ks1gu9ll24l2efbuolc8a33vucn0e2i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
